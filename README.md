@@ -25,22 +25,29 @@ Bienvenido a la Calculadora Interactiva, una versión mejorada con botones funci
 
 1. Clona este repositorio:
 
-git clone https://github.com/Cris-San/calculadora-interactiva.git
+  git clone https://github.com/Cris-San/calculadora-interactiva.git
 
 2. Abre el archivo index.html en tu navegador 🌍
 
 ## 📌 Funcionamiento
 
 🔹 Introduce los números con los botones 🔢
+
 🔹 Presiona una operación matemática ➕➖✖️➗
+
 🔹 Presiona = para calcular el resultado ✅
+
 🔹 Usa AC para limpiar todo y DE para borrar el último número 🔄
+
 
 ## 🏆 Mejoras futuras
 
 🔹 Agregar historial de operaciones 📜
+
 🔹 Implementar un modo oscuro 🌙
+
 🔹 Soporte para más operaciones matemáticas 🔢
+
 
 ## 📩 Contacto
 
