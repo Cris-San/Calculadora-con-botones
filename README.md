@@ -5,7 +5,7 @@ Bienvenido a la Calculadora Interactiva, una versión mejorada con botones funci
 ## ✨ Características
 
 #### ✔️ Diseño moderno y responsivo 📱
-####✔️ Operaciones básicas: suma, resta, multiplicación y división ➕➖✖️➗
+#### ✔️ Operaciones básicas: suma, resta, multiplicación y división ➕➖✖️➗
 #### ✔️ Botón para limpiar la pantalla (AC) 🔄
 #### ✔️ Botón para borrar el último dígito (DE) ⬅️
 #### ✔️ Animaciones y efectos visuales 🌟
