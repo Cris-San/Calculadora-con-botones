@@ -49,8 +49,8 @@ Bienvenido a la Calculadora Interactiva, una versión mejorada con botones funci
 
 ## 📩 Contacto
 
-🌐 LinkedIn: linkedin.com/in/yubercristiansanchezospina
+🌐 LinkedIn: https://www.linkedin.com/in/yubercristiansanchezospina/
 
-🐙 GitHub: github.com/Cris-San
+🐙 GitHub: https://github.com/Cris-San
 
 ✉️ Email: cris629.cso@gmail.com
