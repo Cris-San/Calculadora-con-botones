@@ -23,9 +23,7 @@ Bienvenido a la Calculadora Interactiva, una versión mejorada con botones funci
 
 ## 🚀 Instalación y uso
 
-1. Clona este repositorio:
-
-  git clone https://github.com/Cris-San/calculadora-interactiva.git
+1. Clona este repositorio:git clone https://github.com/Cris-San/calculadora-interactiva.git
 
 2. Abre el archivo index.html en tu navegador 🌍
 
